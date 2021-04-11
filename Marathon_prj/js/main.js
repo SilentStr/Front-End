@@ -33,6 +33,7 @@ function createElement(tag, className) {
     }
 
     return $tag;
+
 }
 
 function createPlayer(info) {
